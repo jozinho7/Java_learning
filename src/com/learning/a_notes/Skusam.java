@@ -2,15 +2,15 @@ package com.learning.a_notes;
 
 public class Skusam {
 
-	/**kratky popis o funkcii 
+	/**
+	 * Strucny popis o metode (funkcii), na co a kedy sa ako pouziva. 
 	 */
 	public static void main(String[] args) {
-		// poznamka jednoriadkova
-		/*
-		 *viacriadkov poznamka 
-		 */
+		// jednoriadkovy komentar - poznamka pre mna, alebo ineho programatora
 		
-
+		/*
+		 * Komentar na viac riadkov, mozes kedykolvek a kdekolvek pouzit v kode
+		 * kludne takto pod seba, aby si nesiel daleko do prava.. 
+		 */
 	}
-
 }
