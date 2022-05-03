@@ -1,4 +1,4 @@
-package com.learning.a_notes;
+package com.learning.a_bordel;
 
 /**
  * Tato trieda znazornuje pouzitie komentarov v zdrojovom kode.

@@ -1,4 +1,4 @@
-package com.learning.a_notes;
+package com.learning.a_bordel;
 
 public class Skusam {
 
